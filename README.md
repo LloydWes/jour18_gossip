@@ -2,8 +2,9 @@
 - Lloyd WESTBURY (@Lloyd sur Slack)
 
 Dans le fichier seed tu trouveras le code utilisé pour remplir les tables.
-Dans le fichier schéma tu trouvera la liste des champs de chaques table.
+Dans le fichier schéma tu trouveras la liste des champs de chaques table.
 Chpa quoi dire ci ce n'est qu'on a bien galéré...
+Je suis allé jusqu'aux messages privé
 
 
 # README
